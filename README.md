@@ -90,10 +90,3 @@ Emergency response platform featuring:
 * LinkedIn: [www.linkedin.com/in/savithri-p07](http://www.linkedin.com/in/savithri-p07)
 * Email: [saviparameswaran07@gmail.com](mailto:saviparameswaran07@gmail.com)
 
----
-
-<div align="center">
-
-⭐ Always open to learning, collaboration, and building innovative solutions.
-
-</div>
