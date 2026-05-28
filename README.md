@@ -88,5 +88,5 @@ Emergency response platform featuring:
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/savithri-p07](http://www.linkedin.com/in/savithri-p07)
-* Email: [saviparameswaran07@gmail.com](mailto:saviparameswaran07@gmail.com)
+* Email: [savithriparameswaran7@gmail.com](mailto:savithriparameswaran7@gmail.com)
 
