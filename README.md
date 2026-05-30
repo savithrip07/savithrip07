@@ -43,6 +43,17 @@
 
 ## 📌 Featured Projects
 
+### 🌾 AgriPulse
+
+AI-powered agricultural field intelligence platform featuring:
+
+* ML-based retailer prioritization
+* Anomaly detection for sales insights
+* Explainable AI recommendations
+* Offline-first field operations
+
+**Tech Stack:** React Native • FastAPI • XGBoost • Isolation Forest • SQLite • SHAP
+
 ### 📚 STinder
 
 AI-powered student productivity platform with:
