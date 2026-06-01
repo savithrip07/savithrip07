@@ -42,7 +42,7 @@ Passionate about building practical applications and delivering high-quality res
 ---
 ## 📌 Featured Projects
 
-### AgriPulse
+### 🌾 AgriPulse
 
 AI-powered agricultural field intelligence platform for retailer prioritization and anomaly detection.
 
@@ -53,7 +53,7 @@ AI-powered agricultural field intelligence platform for retailer prioritization 
 
 `React Native` `FastAPI` `XGBoost` `SQLite` `SHAP`
 
-### STinder
+### 📚 STinder
 
 AI-powered student productivity platform with tutor matching and smart scheduling.
 
@@ -65,7 +65,7 @@ AI-powered student productivity platform with tutor matching and smart schedulin
 `Flask` `Socket.IO` `JavaScript` `Deepgram API`
 
 
-### TouchGrass
+### 🌱 TouchGrass
 
 Gamified outdoor activity tracker aligned with UN SDG Goal-15.
 
@@ -77,7 +77,7 @@ Gamified outdoor activity tracker aligned with UN SDG Goal-15.
 `React` `Firebase` `Tailwind CSS` `OpenAI API`
 
 
-### ResQNet
+### 🚨 ResQNet
 
 Emergency response platform with SOS alerts, live tracking, and crime heatmaps.
 
