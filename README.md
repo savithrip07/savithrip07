@@ -29,7 +29,7 @@ Passionate about building practical applications and delivering high-quality res
 
 ### Frontend
 
-`React.js`  `Responsive Web Design`
+`React.js`  `React Native` `Flutter`
 
 ### Backend & Database
 
