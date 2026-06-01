@@ -40,48 +40,54 @@ Passionate about building practical applications and delivering high-quality res
  `GitHub` `Make.com` `Canva`
 
 ---
-
 ## 📌 Featured Projects
 
 ### AgriPulse
 
-AI-powered agricultural field intelligence platform featuring:
+AI-powered agricultural field intelligence platform for retailer prioritization and anomaly detection.
 
-* ML-based retailer prioritization
-* Anomaly detection for sales insights
-* Explainable AI recommendations
-* Offline-first field operations
+**Highlights**
+- ML-based retailer prioritization
+- Explainable AI recommendations
+- Offline-first field operations
 
-**Tech Stack:** React Native • FastAPI • XGBoost • Isolation Forest • SQLite • SHAP
+`React Native` `FastAPI` `XGBoost` `SQLite` `SHAP`
 
 ### STinder
 
-AI-powered student productivity platform with:
+AI-powered student productivity platform with tutor matching and smart scheduling.
 
-* Real-time tutor matching
-* Smart study scheduling
-* Speech-based interaction
+**Highlights**
+- Real-time tutor matching
+- Smart study scheduling
+- Speech-based interaction
 
-**Tech Stack:** Flask • Socket.IO • JavaScript • Deepgram API
+`Flask` `Socket.IO` `JavaScript` `Deepgram API`
+
 
 ### TouchGrass
 
-Gamified outdoor activity tracker aligned with **UN SDG Goal-15**
+Gamified outdoor activity tracker aligned with UN SDG Goal-15.
 
-**Tech Stack:** React • Firebase • Tailwind CSS • OpenAI API
+**Highlights**
+- Outdoor activity tracking
+- Achievement system
+- Sustainability-focused challenges
+
+`React` `Firebase` `Tailwind CSS` `OpenAI API`
+
 
 ### ResQNet
 
-Emergency response platform featuring:
+Emergency response platform with SOS alerts, live tracking, and crime heatmaps.
 
-* SOS alerts
-* Live tracking
-* Crime heatmaps
-* Crisis marketplace
+**Highlights**
+- SOS emergency alerts
+- Live location tracking
+- Crime heatmap visualization
 
-**Tech Stack:** Flask • SQLite • HTML
+`Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
----
 
 ## 📖 Research & Publications
 
