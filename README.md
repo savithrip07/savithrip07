@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Savithri P👋
+# Hi, I'm Savithri P
 
-🎓 Computer Science Undergraduate
+Computer Science Undergraduate
 
-📚 BS in Data Science and Applications @ IIT Madras
+BS in Data Science and Applications @ IIT Madras
 
-💡 Passionate about building practical applications and delivering high-quality results in the tech industry.
+Passionate about building practical applications and delivering high-quality results in the tech industry.
 
 </div>
 
@@ -14,10 +14,10 @@
 
 ## 🚀 About Me
 
-* 👩‍🎓 Dual Degree Student
-* 💻 Former Junior Developer at FOS Automations
-* 🏆 Active Hackathon Participant
-* 🎯 Building practical and impactful tech solutions
+* Dual Degree Student
+* Former Junior Developer at FOS Automations
+* Active Hackathon Participant
+* Building practical and impactful tech solutions
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 📌 Featured Projects
 
-### 🌾 AgriPulse
+### AgriPulse
 
 AI-powered agricultural field intelligence platform featuring:
 
@@ -54,7 +54,7 @@ AI-powered agricultural field intelligence platform featuring:
 
 **Tech Stack:** React Native • FastAPI • XGBoost • Isolation Forest • SQLite • SHAP
 
-### 📚 STinder
+### STinder
 
 AI-powered student productivity platform with:
 
@@ -64,13 +64,13 @@ AI-powered student productivity platform with:
 
 **Tech Stack:** Flask • Socket.IO • JavaScript • Deepgram API
 
-### 🌱 TouchGrass
+### TouchGrass
 
 Gamified outdoor activity tracker aligned with **UN SDG Goal-15**
 
 **Tech Stack:** React • Firebase • Tailwind CSS • OpenAI API
 
-### 🚨 ResQNet
+### ResQNet
 
 Emergency response platform featuring:
 
@@ -87,8 +87,8 @@ Emergency response platform featuring:
 
 ### *Decoding Creativity: A Feature Based Analysis of AI vs. Human Artistic Outputs*
 
-📍 Presented at **ICCCMIT 2026**
-📘 ISBN: `978-81-990629-8-6`
+Presented at **ICCCMIT 2026**
+ISBN: `978-81-990629-8-6`
 
 * Developed a high-precision model achieving **99.19% accuracy** in distinguishing AI-generated and human-made Ghibli-style artwork
 * Implemented Ensemble Models, CLIP embeddings, and clustering techniques for artistic feature analysis
