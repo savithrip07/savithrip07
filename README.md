@@ -88,6 +88,7 @@ Emergency response platform with SOS alerts, live tracking, and crime heatmaps.
 
 `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
+---
 
 ## 📖 Research & Publications
 
