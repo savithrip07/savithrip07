@@ -17,7 +17,7 @@ Passionate about building practical applications and delivering high-quality res
 * Dual Degree Student passionate about frontend development
 * Authored research paper presented at ICCCMIT 2026
 * Active Hackathon Participant
-* Love building things end-to-end, from idea to deployment
+* Love building things end-to-end, from idea to deployment 
 
 ---
 
