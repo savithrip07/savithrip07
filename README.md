@@ -14,10 +14,10 @@ Passionate about building practical applications and delivering high-quality res
 
 ## 🚀 About Me
 
-* Dual Degree Student
-* Former Junior Developer at FOS Automations
+* Dual Degree Student passionate about frontend development
+* Authored research paper presented at ICCCMIT 2026
 * Active Hackathon Participant
-* Building practical and impactful tech solutions
+* Love building things end-to-end, from idea to deployment
 
 ---
 
