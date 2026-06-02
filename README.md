@@ -64,6 +64,15 @@ AI-powered student productivity platform with tutor matching and smart schedulin
 
 `Flask` `Socket.IO` `JavaScript` `Deepgram API`
 
+### 🍱 Left2Right
+Community food sharing platform connecting food donors with people in need, aimed at reducing food waste.
+
+**Highlights**
+- Donor-to-recipient food listing and matching
+- Full stack implementation across frontend, backend, and UI
+- Community-focused design for social impact
+
+`React` `Node.js` `MongoDB`
 
 ### 🌱 TouchGrass
 
