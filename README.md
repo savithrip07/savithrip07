@@ -25,15 +25,15 @@ Passionate about building practical applications and delivering high-quality res
 
 ### Languages
 
-`Python` `C++` `JavaScript` `HTML5` `CSS3`
+`Python` `C++` `JavaScript` `Dart`
 
 ### Frontend
 
-`React.js`  `React Native` `Flutter`
+`React.js`  `React Native` `Flutter` `HTML5` `CSS3`
 
 ### Backend & Database
 
- `Node.js` `MongoDB` `MySQL` `SQLite`
+ `Node.js` `MongoDB` `MySQL`
 
 ### Tools & Platforms
 
